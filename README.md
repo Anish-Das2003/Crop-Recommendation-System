@@ -81,7 +81,7 @@ Confusion Matrix
 
 ✅ **Results**
 
-Achieved accuracy of ~98–99%
+Achieved accuracy of ~99-100%
 
 Model predicts crops reliably for unseen soil and climate data
 
