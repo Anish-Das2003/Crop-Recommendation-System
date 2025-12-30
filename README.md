@@ -9,7 +9,7 @@ This project builds a crop recommendation/prediction model that helps farmers an
 It uses Gradient Boosting, a powerful ensemble learning technique, to achieve high prediction accuracy.
 
 📊 **Dataset
-Source**: Public Crop Recommendation Dataset
+Source**: https://github.com/Anish-Das2003/Crop-Recommendation-System/blob/63128c76d026b39491af9e9c113b6e6c1021d79f/Crop_recommendation%20(1).csv
 
 **Features**:
 
