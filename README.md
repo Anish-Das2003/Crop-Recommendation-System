@@ -86,6 +86,8 @@ Achieved accuracy of ~99-100%
 Model predicts crops reliably for unseen soil and climate data
 
 Performs well across multiple crop classes
+![image alt](https://github.com/Anish-Das2003/Crop-Recommendation-System/blob/aa36b5a60a93b11e786a9558f7212462d2456d97/Crop%20Recommendation.png)
+
 
 🌱 **Use Case**
 
