@@ -87,6 +87,7 @@ Model predicts crops reliably for unseen soil and climate data
 
 Performs well across multiple crop classes
 ![image alt](https://github.com/Anish-Das2003/Crop-Recommendation-System/blob/aa36b5a60a93b11e786a9558f7212462d2456d97/Crop%20Recommendation.png)
+![image alt](https://github.com/Anish-Das2003/Crop-Recommendation-System/blob/801afe1154aa6dc0fbddebe0de2686d4074b8ef1/Crop%20Recommendation1.png)
 
 
 🌱 **Use Case**
